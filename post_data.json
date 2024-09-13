@@ -1,0 +1,17 @@
+{
+    "model": "CodeChat",
+    "max_tokens": 4096,
+    "top_p": 1,
+    "top_k": 40,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "temperature": 0,
+    "stream": true,
+    "messages": [
+    {
+      "role": "user",
+      "content": "write me quick sort in python?"
+    }
+    ],
+    "stream": false
+  }
