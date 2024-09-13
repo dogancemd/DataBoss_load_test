@@ -1,0 +1,9 @@
+{
+    "refresh_limit" : 100,
+    "refresh_rate" : 2,
+    "weights": {
+        "easy": 1,
+        "medium": 2,
+        "hard": 1
+    }
+}

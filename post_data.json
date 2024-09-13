@@ -10,7 +10,7 @@
     "messages": [
     {
       "role": "user",
-      "content": "write me quick sort in python?"
+      "content": "placeholder"
     }
     ],
     "stream": false
